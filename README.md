@@ -1,4 +1,4 @@
-# EBook LÓGICA DE PROGRAMAÇÃO
+# EBOOK LÓGICA DE PROGRAMAÇÃO
 
 ## 📒 Descrição
 Minicurso de Introdução Básica a Programação
